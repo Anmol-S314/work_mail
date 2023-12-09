@@ -14,41 +14,44 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Installing and Setting up flutter
 
-Refer the following link to install and setup required tech stack for the application: https://docs.flutter.dev/get-started/install
 
-After installing Flutter, we would also need to install Android-studio and command-line tools for Android SDK:
+## Flutter Installation and Configuration
 
-1) Install and setup android-studio from this link: https://developer.android.com/studio/install
+To set up Flutter, please consult the following guide for installing the necessary tech stack: [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 
-NOTE: For Linux/Ubuntu, android-studio is already an application available on Ubuntu Software. We can install it directly from there.
+After installing Flutter, Android Studio and command-line tools for the Android SDK are also required:
 
-2) Download and setup the command-line-tools by following these steps:
+- Install and configure Android Studio by following this link: [Android Studio Installation](https://developer.android.com/studio/install)
 
-    a) Open Android-Studio
-    b) Click on "More Actions" option on the boot window. Select SDK Manager from the options it shows.
-    c) In the "Android SDK" section, go to the SDK Tools section.
-    d) Check the box for "Android SDK Command-line Tools (latest)" and click ok
+- Download and configure command-line tools with these steps:
 
-3) Running "flutter doctor" would ask you to acccept some android-licenses. Run the following command to fix this:
+    - Launch Android Studio
+    - Access "More Actions" on the boot window, select SDK Manager.
+    - In the "Android SDK" section, navigate to SDK Tools.
+    - Enable "Android SDK Command-line Tools (latest)" and click OK.
 
- `flutter doctor --android-licenses`
+Running `flutter doctor` may prompt you to accept some Android licenses. Use the following command to resolve this:
 
-4) Running the application: This can be done in two ways
 
-    a) Setup an android emulator: https://developer.android.com/studio/run/managing-avds
-    b) Running on your local android device: This requires for activating USB-debugging in the developer options. Follow this link to do so: https://developer.android.com/studio/run/device
+`flutter doctor --android-licenses`
+
+## Launching the Application
+
+This can be done in two ways:
+
+- Set up an Android emulator using [these instructions](https://developer.android.com/studio/run/managing-avds).
+- Run the application on your local Android device. This requires activating USB debugging in the developer options. Follow [this link](https://developer.android.com/studio/run/device) for instructions.
 
 This concludes the setup for Flutter.
 
-## Clone the project
+## Clone the Project
 
-Clone the project from the repository: https://github.com/Anmol-S314/work_mail
+Clone the project from the repository: [https://github.com/Anmol-S314/work_mail](https://github.com/Anmol-S314/work_mail)
 
-## Running the application
+## Running the Application
 
-1) Start the emulator or connect or android mobile with your laptop and allow USB debugging in your Developer Mode.
-2) To install dependednces do `flutter pub get`
-3) Run the application using command: `flutter run`
+1. Start the emulator or connect your Android mobile to your laptop and allow USB debugging in your Developer Mode.
+2. To install dependencies, run `flutter pub get`.
+3. Run the application using the command: `flutter run`.
 
