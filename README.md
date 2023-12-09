@@ -1,5 +1,5 @@
 
-# YouGotMail - A Simple Email Client Android Application
+# YouGotMail - A Simple Email Client App
 
 A new Flutter project.
 
