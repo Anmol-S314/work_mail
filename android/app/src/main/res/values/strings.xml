@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="app_name">YouGotMail</string>
+<string name="facebook_app_id">361124559826726</string>
+<string name="fb_login_protocol_scheme">fb361124559826726</string>
+<string name="facebook_client_token">27be0c54c25c24f2fcdb278fd69e2bec</string>
+</resources>

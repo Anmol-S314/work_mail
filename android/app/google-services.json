@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "719428052330",
+    "project_id": "email-android-project",
+    "storage_bucket": "email-android-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719428052330:android:16a34d4a81a2ae263bb113",
+        "android_client_info": {
+          "package_name": "com.example.work_mail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719428052330-dkhe9apvcsu0bht7kn91c3prrmebcg84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work_mail",
+            "certificate_hash": "70721453716d08511e1b74667d13ef87de74b9f4"
+          }
+        },
+        {
+          "client_id": "719428052330-gq55s8kgkjvbde13g2riiij2u44lagct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9cFJqblJuhuBAhhWENtXGi-eqZhjMxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719428052330-gq55s8kgkjvbde13g2riiij2u44lagct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719428052330-017br0qu74tr3f7j3naijvi47ij490v2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.workMail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
